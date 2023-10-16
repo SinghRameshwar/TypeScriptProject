@@ -8,4 +8,4 @@ const App = () => (
 </GestureHandlerRootView>
 )
 
-export default App;hdfhdfh
+export default App;
